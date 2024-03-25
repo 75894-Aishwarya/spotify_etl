@@ -1,1 +1,6 @@
-
+Dataset is downloaded from kaggle
+url: https://www.kaggle.com/datasets/tonygordonjr/spotify-dataset-2023/data
+It contains .csv files 
+1.album.csv
+2.artist.csv
+3.track.csv
